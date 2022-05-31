@@ -2,7 +2,8 @@
  <h4  font = "Courier, monospace" >hello, eu sou a Lívia 🙋‍♀️😊</h4>
  <h4  font = "Courier, monospace" >Desenvolvedora em desenvolvimento 🙋‍♀️😊</h4>
 
-◻ Atualmente estou aprendendo mais sobre Python e django.
+◻ Atualmente curso Ciência da Computação na Universidade Federal de Alagoas.
+◻ Estou aprendendo mais sobre Python e django.
  
 ◻ Aqui compartilho alguns projetos que faço em cursos, exercícios propostos na Universidade onde estudo e projetos que acho legais.
 </div>
