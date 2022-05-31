@@ -1,9 +1,10 @@
 <div>
  <h4  font = "Courier, monospace" >hello, eu sou a Lívia 🙋‍♀️😊</h4>
+ <h4  font = "Courier, monospace" >Desenvolvedora em desenvolvimento 🙋‍♀️😊</h4>
 
-◻ Atualmente estou estudando Python, Django, desenvolvendo pequenas páginas Web e vendo um pouco sobre Arduino. (Sim, uma bela mistura)
+◻ Atualmente estou aprendendo mais sobre Python e django.
  
-◻ Aqui compartilho alguns projetos que faço em cursos (principalmente exercícios), exercícios propostos na Universidade onde estudo e projetos aleatórios que desenvolvo quando estou inspirada.
+◻ Aqui compartilho alguns projetos que faço em cursos, exercícios propostos na Universidade onde estudo e projetos que acho legais.
 </div>
  <div>
 <div align = "center" >
