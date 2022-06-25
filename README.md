@@ -2,16 +2,16 @@
  <h4  font = "Courier, monospace" >hello, eu sou a Lívia 🙋‍♀️😊</h4>
  <h4  font = "Courier, monospace" >Desenvolvedora em desenvolvimento 🙋‍♀️😊</h4>
 
-◻ Atualmente curso Ciência da Computação na Universidade Federal de Alagoas.
-◻ Estou aprendendo mais sobre Python e django.
- 
-◻ Aqui compartilho alguns projetos que faço em cursos, exercícios propostos na Universidade onde estudo e projetos que acho legais.
+◻ Atualmente curso Ciência da Computação na Universidade Federal de Alagoas 
+◻ Bolsista de desenvolvimento em um dos projetos no Laboratório de Computação Científica e Visualização
+◻ Estou aprendendo tecnologias front- end (Angular, TypeScript e outras).
+
 </div>
  <div>
 <div align = "center" >
   <a href="https://github.com/liviaandressa">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=liviaandressa&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liviaandressa&layout=compact&langs_count=7&theme=jolly" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=liviaandressa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liviaandressa&layout=compact&langs_count=7&theme=dracula" />
 </div
     
  <div style = "display: inline_block"> <br>
