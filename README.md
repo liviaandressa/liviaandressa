@@ -2,9 +2,9 @@
  <h4  font = "Courier, monospace" >hello, eu sou a Lívia 🙋‍♀️😊</h4>
  <h4  font = "Courier, monospace" >Desenvolvedora em desenvolvimento 🙋‍♀️😊</h4>
 
-◻ Atualmente curso Ciência da Computação na Universidade Federal de Alagoas 
-◻ Bolsista de desenvolvimento em um dos projetos no Laboratório de Computação Científica e Visualização
-◻ Estou aprendendo tecnologias front- end (Angular, TypeScript e outras).
+<p> ◻ Atualmente curso Ciência da Computação na Universidade Federal de Alagoas </p>
+<p> ◻ Bolsista de desenvolvimento em um dos projetos no Laboratório de Computação Científica e Visualização </p>
+<p> ◻ Estou aprendendo tecnologias front- end (Angular, TypeScript e outras). </p>
 
 </div>
  <div>
@@ -28,6 +28,7 @@
    <img align = "center" alt = "angular" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg ">
    
 
+
           
           
 </div>
@@ -38,3 +39,6 @@
   <a href = "mailto:liviaandressa61@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"></a>
   <a href="https://www.linkedin.com/in/lívia-santos-4b9885206" target="_blank"> <img src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white> </a> 
 </div>
+
+![snake gif](https://github.com/liviaandressa/liviaandressa/blob/output/github-contribution-grid-snake.svg)
+
